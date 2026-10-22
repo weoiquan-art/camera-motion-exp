@@ -6,8 +6,7 @@ JIN 的镜头学与运镜实验：Seedance 视频提示词里的镜头怎么写�
 
 ## 现状
 
-- 2026-10-22 建库。首次内容复制自 `prompit-logic/references/镜头学.md`，复制时正文相同，只改了标题和开头的引用约定。
-- prompit-logic 里的那份怎么处理（留着，或改成指向这里），等 JIN 确认。确认之前两边都有，改动要同步。
+- 2026-10-22 建库，镜头学从 `prompit-logic/references/镜头学.md` 搬来（JIN 2026-10-22 定）。prompit-logic 里不再保留，那边的指向已改到这里。
 - 运镜实验的结果目前只以结论写在 `references/镜头学.md` 各节的"在 Seedance 里"；案例全文在私有库 video-exp。新的实验记在哪里，等 JIN 定。
 
 ## 这是公开仓库
