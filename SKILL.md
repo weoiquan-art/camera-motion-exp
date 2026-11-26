@@ -3,6 +3,8 @@ name: camera-motion-exp
 description: 写、改、审 Seedance 2.0／2.5 视频提示词里的镜头句子之前必读：景别、角度、运镜、机位、视场、第一人称 POV 与镜头因果、镜头切分、说话镜头与画面对应、一镜到底的路径、转头与镜头节奏；含 JIN 的生成实测和待补。Read before writing or reviewing camera, shot-size, angle, camera-move, POV, long-take or pacing wording in any Seedance video prompt.
 ---
 
+> **2026-11-26 起停止更新。** 已经搬到 prompit-logic（镜头学：`镜头/镜头学.md`；真人：`类型/真人/`），以那边为准；这里只留作旧版存档。
+
 # 镜头学与运镜实验
 
 **用法：** 写、改、审 Seedance 视频提示词里和镜头有关的句子之前，先读完本文件，再读「references/镜头学.md」。对话压缩后如果这些内容已经不在上下文里，重新读一遍。本 Skill 只提供镜头知识，不授权直接写提示词：写任何视频提示词前先问 JIN（见 jin-seedance-prompt-logic 第一节第 1 条）。
